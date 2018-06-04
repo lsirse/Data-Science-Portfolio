@@ -6,7 +6,7 @@ USE stackoverflow_;
 
 
 
-** Create views which select tags from respective year
+**Create views which select tags from respective year
 by using explode function, counts tags and ranks them by
 popularity.
 **
@@ -39,11 +39,15 @@ CREATE VIEW ranks_2016(
 ORDER by r ASC;
 ```
 
+
+
 **Finally, two views are joined on tag column and following row is made, for instance:**
 
 | Tag | Rank of 2016 | Rank of 2009 | Count of 2016 | Count of 2009 |
 | ------ | ------ | ------ | ------ | ------ |
 | Php | 5 | 4 | 1233 | 3421 |
+
+
 
 
 ```
