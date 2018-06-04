@@ -41,11 +41,10 @@ ORDER by r ASC;
 
 
 
-**Finally, two views are joined on tag column and following row is made, for instance:**
+**Finally, two views are joined on tag column and collection of rows of this format is generated:**
 
 | Tag | Rank of 2016 | Rank of 2009 | Count of 2016 | Count of 2009 |
 | ------ | ------ | ------ | ------ | ------ |
-| Php | 5 | 4 | 1233 | 3421 |
 
 
 
