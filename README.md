@@ -16,8 +16,8 @@ tags                	array<string>
 year                	string              	                    
 month               	string              	                    
 	 	 
-# Partition Information	 	 
-# col_name            	data_type           	comment             
+Partition Information	 	 
+col_name            	data_type           	comment             
 	 	 
 year                	string              	                    
 month               	string              	                    
