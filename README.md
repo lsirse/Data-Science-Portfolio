@@ -32,9 +32,9 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 - ### Micro Projects: 
 
-	- __Python__
-		- [ML with Logistic Regression](Machine%20Learning%20with%20Logistic%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
-		- [ML with K Nearest Neighbours](master/ML%20Micro%20Projects/ML%20with%20K%20Nearest%20Neighbors.ipynb): Using KNN to classify instances from a fake dataset into 
+	- __HIVE Data Definition Language (DDL)__
+		- [Comparison of popularity of Stackoverflow tags](https://github.com/lsirse/Hive_DDL_Stackoverflow_tag_popularity/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
+
 	- __R__
 		- [ML Logistic Regression](randomurl/micro_logistic): Predicting salary class of a person using logistic regression.
 
