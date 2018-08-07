@@ -9,7 +9,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- [Predicting Boston Housing Prices](https://github.com/lsirse/Data-Science-Portfolio/tree/master/boston_housing): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+	_Tools: scikit-learn, numpy, pandas
 
 	
 
