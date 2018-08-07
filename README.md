@@ -18,6 +18,6 @@ _Note: Data used in the projects is for demonstration purposes only._
 	- __HIVE Data Definition Language (DDL)__
 		- [Comparison of popularity of Stackoverflow tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
 
-	_Tools: Hive DDL
+	_Tools: Hive DDL_
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, you can contact me at linkedin. 
