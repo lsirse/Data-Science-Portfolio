@@ -11,6 +11,14 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	_Tools: scikit-learn, numpy, pandas_
 
+
+- ### Data Analysis and Visualisation
+
+
+	- [Titanic Dataset - Exploratory Analysis](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Titanic%20Survival%20Exploration): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+
+	_Tools: numpy, pandas, seaborn_
+
 	
 
 - ### Micro Projects: 
