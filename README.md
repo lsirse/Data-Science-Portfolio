@@ -8,12 +8,12 @@ _Note: Data used in the projects is for demonstration purposes only._
 - ### Machine Learning
 
 	- [Predicting Boston Housing Prices](https://github.com/lsirse/Data-Science-Portfolio/tree/master/boston_housing): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	
+	- [Supervised Learning: Finding Donors for CharityML](https://github.com/lsirse/Data-Science-Portfolio/tree/master/finding_donors): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 
 	_Tools: scikit-learn, numpy, pandas_
-
-
+	
 - ### Data Analysis and Visualisation
-
 
 	- [Titanic Dataset - Exploratory Analysis](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Titanic%20Survival%20Exploration): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 
