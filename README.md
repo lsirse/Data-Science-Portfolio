@@ -18,7 +18,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 - ### Deep Learning
 
-	- [Deep Learning: Algorithm for a Dog Identification App](https://github.com/lsirse/Data-Science-Portfolio/tree/master/dog-project)
+	- [Deep Learning: Algorithm for a Dog Identification App](https://github.com/lsirse/Data-Science-Portfolio/tree/master/dog-project): Dog breed classifier app which uses Deep learning, specifically convolutional neural networks(CNNs) to classify dog breeds. To reduce training time without sacrificing accuracy, CNNs were trained with GPU using transfer learning.
 
 - ### Data Analysis and Visualisation
 
