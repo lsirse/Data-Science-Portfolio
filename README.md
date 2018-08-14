@@ -25,6 +25,8 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- [Deep Q-Learning: Train a Quadcopter How to Fly](https://github.com/lsirse/Data-Science-Portfolio/tree/master/quadcopter-project): Training an agent (Quadcopter) how to fly using Deep Q-Learning. The project is a replication of the DeepMind paper: [Lillicrap, Timothy P., et al., 2015. Continuous Control with Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf). The project includes Actor-Critic method, Ornstein-Uhlenbeck Noise and Replay buffer. 
 
+	_Tools: scikit-learn, keras, numpy, pandas_
+
 - ### Data Analysis and Visualisation
 
 	- [Titanic Dataset - Exploratory Analysis](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Titanic%20Survival%20Exploration): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
@@ -38,6 +40,9 @@ _Note: Data used in the projects is for demonstration purposes only._
 	- __HIVE Data Definition Language (DDL)__
 		- [Comparison of popularity of Stackoverflow tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
 
-	_Tools: Hive DDL_
+	- [Titanic Survival Exploration with Decision Trees](): Training and testing Decision Trees model in order to predict survival of the passengers onboard RMS Titanic.
+
+	_Tools: Hive DDL, scikit-learn_
+
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, you can contact me at linkedin. 
