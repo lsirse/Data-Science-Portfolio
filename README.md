@@ -20,6 +20,11 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- [Deep Learning: Algorithm for a Dog Identification App](https://github.com/lsirse/Data-Science-Portfolio/tree/master/dog-project): Dog breed classifier app which uses Deep learning, specifically convolutional neural networks(CNNs) to classify dog breeds. To reduce training time without sacrificing accuracy, CNNs were trained with GPU using transfer learning.
 
+- ### Reinforcement learning
+
+
+	- [Deep Q-Learning: Train a Quadcopter How to Fly](https://github.com/lsirse/Data-Science-Portfolio/tree/master/quadcopter-project): Training an agent (Quadcopter) how to fly using Deep Q-Learning. The project is a replication of the DeepMind paper: [Lillicrap, Timothy P., et al., 2015. Continuous Control with Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf). The project includes Actor-Critic method, Ornstein-Uhlenbeck Noise and Replay buffer. 
+
 - ### Data Analysis and Visualisation
 
 	- [Titanic Dataset - Exploratory Analysis](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Titanic%20Survival%20Exploration): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
