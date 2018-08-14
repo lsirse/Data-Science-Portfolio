@@ -47,7 +47,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 		- [K-means Clustering of Movie Ratings](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/movie-ratings/k-means%20Clustering%20of%20Movie%20Ratings.ipynb): Using k-means clustering algorithm in order to produce movie recommendations.
 
 	- __Principal component analysis (PCA), Support vector machines (SVM)__
-		- [Faces recognition using eigenfaces and SVMs](): Application of principal component analysis for face recognition.
+		- [Faces recognition using eigenfaces and SVMs](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/PCA.ipynb): Application of principal component analysis for face recognition.
 
 	- #### Big Data
 	
