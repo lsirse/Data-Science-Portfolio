@@ -37,9 +37,6 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 - ### Micro Projects: 
 
-	- __HIVE Data Definition Language (DDL)__
-		- [Comparison of Popularity of Stackoverflow Tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
-
 	- __Decision Trees__
 		- [Titanic Survival Exploration with Decision Trees](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/titanic_decisiontrees.ipynb): Training and testing Decision Trees model in order to predict survival of the passengers onboard RMS Titanic.
 
@@ -48,6 +45,14 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- __K-Means__
 		- [K-means Clustering of Movie Ratings](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/movie-ratings/k-means%20Clustering%20of%20Movie%20Ratings.ipynb): Using k-means clustering algorithm in order to produce movie recommendations.
+
+	- __Principal component analysis (PCA), Support vector machines (SVM)__
+		- [Faces recognition using eigenfaces and SVMs](): Application of principal component analysis for face recognition.
+
+	- #### Big Data
+	
+		- __HIVE Data Definition Language (DDL)__
+			- [Comparison of Popularity of Stackoverflow Tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
 
 	_Tools: Hive DDL, scikit-learn_
 
