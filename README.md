@@ -46,9 +46,8 @@ _Note: Data used in the projects is for demonstration purposes only._
 	- __Naive Bayes Algorithm__
 		- [Detecting Spam SMS messages using Naive Bayes](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/naive-bayes): Using Naive Bayes algorithm to create a model that can classify SMS messages as spam or not spam, based on the training we give to the model.
 
-
 	- __K-Means__
-		- [K-means clustering of movie ratings](): 
+		- [K-means Clustering of Movie Ratings](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/movie-ratings/k-means%20Clustering%20of%20Movie%20Ratings.ipynb): Using k-means clustering algorithm in order to produce movie recommendations.
 
 	_Tools: Hive DDL, scikit-learn_
 
