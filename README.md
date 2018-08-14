@@ -38,10 +38,13 @@ _Note: Data used in the projects is for demonstration purposes only._
 - ### Micro Projects: 
 
 	- __HIVE Data Definition Language (DDL)__
-		- [Comparison of popularity of Stackoverflow tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
+		- [Comparison of Popularity of Stackoverflow Tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
 
 	- __Decision Trees__
 		- [Titanic Survival Exploration with Decision Trees](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/titanic_decisiontrees.ipynb): Training and testing Decision Trees model in order to predict survival of the passengers onboard RMS Titanic.
+
+	- __Naive Bayes Algorithm__
+		- [Detecting Spam SMS messages using Naive Bayes](): Using Naive Bayes algorithm to create a model that can classify SMS messages as spam or not spam, based on the training we give to the model.
 
 	_Tools: Hive DDL, scikit-learn_
 
