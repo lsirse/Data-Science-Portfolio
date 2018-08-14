@@ -3,7 +3,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 _Note: Data used in the projects is for demonstration purposes only._
 
-## Contents
+## Content
 
 - ### Machine Learning
 
@@ -45,6 +45,10 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- __Naive Bayes Algorithm__
 		- [Detecting Spam SMS messages using Naive Bayes](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/naive-bayes): Using Naive Bayes algorithm to create a model that can classify SMS messages as spam or not spam, based on the training we give to the model.
+
+
+	- __K-Means__
+		- [K-means clustering of movie ratings](): 
 
 	_Tools: Hive DDL, scikit-learn_
 
