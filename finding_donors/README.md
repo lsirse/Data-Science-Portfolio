@@ -1,5 +1,7 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
+## Project Overview
+In this project supervised learning techniques were applied on data collected for the U.S. census in order to help CharityML (a fictitious charity organization) identify people who are most likely to donate to their cause. 
 
 ### Install
 
