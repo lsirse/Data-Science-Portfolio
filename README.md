@@ -54,7 +54,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 		- [Analyzing IMDB Data in Keras](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/IMDB_In_Keras.ipynb): Training and testing Sequential Keras model with IMDB movie data.
 
 	- __Independent Component Analysis (ICA)__
-		- [Retrieving original signal with ICA](#): Using Independent Component Analysis to retrieve original signals from three observations each of which contains a different mix of the original signals.
+		- [Retrieving original signal with ICA](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/ICA/Independent%20Component%20Analysis.ipynb): Using Independent Component Analysis to retrieve original signals from three observations each of which contains a different mix of the original signals.
 
 	- #### Big Data
 	
