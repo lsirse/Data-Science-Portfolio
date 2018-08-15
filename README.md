@@ -57,8 +57,6 @@ _Note: Data used in the projects is for demonstration purposes only._
 	- __Independent Component Analysis (ICA)__
 		- [Retrieving original signal with ICA](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/ICA/Independent%20Component%20Analysis.ipynb): Using Independent Component Analysis to retrieve original signals from three observations each of which contains a different mix of the original signals.
 
-	_Tools: Hive, scikit-learn_
-
 - ### Big Data Micro Projects
 	- __HIVE Data Definition Language (DDL)__
 		- [Comparison of Popularity of Stackoverflow Tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
