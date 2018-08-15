@@ -51,7 +51,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- __Keras__
 
-		- [Analyzing IMDB Data in Keras](#): Training and testing Sequential Keras model using IMDB movie data.
+		- [Analyzing IMDB Data in Keras](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/IMDB_In_Keras.ipynb): Training and testing Sequential Keras model with IMDB movie data.
 
 	- #### Big Data
 	
