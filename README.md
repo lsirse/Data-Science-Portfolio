@@ -39,15 +39,19 @@ _Note: Data used in the projects is for demonstration purposes only._
 - ### Micro Projects: 
 
 	- __Decision Trees__
+	
 		- [Titanic Survival Exploration with Decision Trees](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/titanic_decisiontrees.ipynb): Training and testing Decision Trees model in order to predict survival of the passengers onboard RMS Titanic.
 
 	- __Naive Bayes Algorithm__
+
 		- [Detecting Spam SMS messages using Naive Bayes](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/naive-bayes/Bayesian_Inference.ipynb): Using Naive Bayes algorithm to create a model that can classify SMS messages as spam or not spam, based on the training we give to the model.
 
 	- __K-Means__
+
 		- [K-means Clustering of Movie Ratings](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/movie-ratings/k-means%20Clustering%20of%20Movie%20Ratings.ipynb): Using k-means clustering algorithm in order to produce movie recommendations.
 
 	- __Principal component analysis (PCA), Support vector machines (SVM)__
+
 		- [Faces recognition using eigenfaces and SVMs](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/PCA.ipynb): Application of principal component analysis for face recognition.
 
 	- __Keras__
@@ -55,10 +59,12 @@ _Note: Data used in the projects is for demonstration purposes only._
 		- [Analyzing IMDB Data in Keras](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/IMDB_In_Keras.ipynb): Training and testing Sequential Keras model with IMDB movie data.
 
 	- __Independent Component Analysis (ICA)__
+
 		- [Retrieving original signal with ICA](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/ICA/Independent%20Component%20Analysis.ipynb): Using Independent Component Analysis to retrieve original signals from three observations each of which contains a different mix of the original signals.
 
 - ### Big Data Micro Projects
 	- __HIVE Data Definition Language (DDL)__
+
 		- [Comparison of Popularity of Stackoverflow Tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
 
 	_Tools: Hive_
