@@ -9,16 +9,18 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- [Predicting Boston Housing Prices](https://github.com/lsirse/Data-Science-Portfolio/tree/master/boston_housing): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 	
-	- [Supervised Learning: Finding Donors for CharityML](https://github.com/lsirse/Data-Science-Portfolio/tree/master/finding_donors): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
+	- [Supervised Learning: Finding Donors for CharityML](https://github.com/lsirse/Data-Science-Portfolio/tree/master/finding_donors): Testing out several different supervised learning algorithms (SVM, Decision Trees, Random Forests) to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 
-	- [Unsupervised Learning: Creating Customer Segments](https://github.com/lsirse/Data-Science-Portfolio/tree/master/customer_segments): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
+	- [Unsupervised Learning: Creating Customer Segments](https://github.com/lsirse/Data-Science-Portfolio/tree/master/customer_segments): Analyzing a dataset (using PCA, Gaussian Mixture Model) containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 
-	_Tools: scikit-learn, numpy, pandas_
+	_Tools: scikit-learn, numpy, pandas, matplotlib, seaborn_
 
 
 - ### Deep Learning
 
 	- [Deep Learning: Algorithm for a Dog Identification App](https://github.com/lsirse/Data-Science-Portfolio/tree/master/dog-project): Dog breed classifier app which uses Deep learning, specifically convolutional neural networks(CNNs) to classify dog breeds. To reduce training time without sacrificing accuracy, CNNs were trained with GPU using transfer learning.
+
+	_Tools: scikit-learn, numpy, pandas_
 
 - ### Reinforcement learning
 
@@ -56,12 +58,14 @@ _Note: Data used in the projects is for demonstration purposes only._
 	- __Independent Component Analysis (ICA)__
 		- [Retrieving original signal with ICA](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/ICA/Independent%20Component%20Analysis.ipynb): Using Independent Component Analysis to retrieve original signals from three observations each of which contains a different mix of the original signals.
 
-	- #### Big Data
+	_Tools: Hive, scikit-learn_
+
+- ### Big Data Micro Projects: 
 	
 		- __HIVE Data Definition Language (DDL)__
 			- [Comparison of Popularity of Stackoverflow Tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
 
-	_Tools: Hive, scikit-learn_
+	_Tools: Hive_
 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, you can contact me at linkedin. 
