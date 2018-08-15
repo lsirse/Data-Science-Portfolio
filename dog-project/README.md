@@ -16,8 +16,6 @@ In this project, we built a pipeline that can be used within a web or mobile app
 
 ## Project Instructions
 
-### Instructions
-
 1. Clone the repository and navigate to the downloaded folder.
 ```	
 git clone https://github.com/udacity/dog-project.git
