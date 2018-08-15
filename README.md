@@ -20,14 +20,14 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- [Deep Learning: Algorithm for a Dog Identification App](https://github.com/lsirse/Data-Science-Portfolio/tree/master/dog-project): Dog breed classifier app which uses Deep learning, specifically convolutional neural networks(CNNs) to classify dog breeds. To reduce training time without sacrificing accuracy, CNNs were trained with GPU using transfer learning.
 
-	_Tools: scikit-learn, numpy, pandas_
+	_Tools: keras, numpy, matplotlib_
 
 - ### Reinforcement learning
 
 
-	- [Deep Q-Learning: Train a Quadcopter How to Fly](https://github.com/lsirse/Data-Science-Portfolio/tree/master/quadcopter-project): Training an agent (Quadcopter) how to fly using Deep Q-Learning. The project is a replication of the DeepMind paper: [Lillicrap, Timothy P., et al., 2015. Continuous Control with Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf). The project includes Actor-Critic method, Ornstein-Uhlenbeck Noise and Replay buffer. 
+	- [Deep Q-Learning: Train a Quadcopter How to Fly](https://github.com/lsirse/Data-Science-Portfolio/tree/master/quadcopter-project): Training an agent (Quadcopter) how to fly using Deep Q-Learning. The project is a replication of the DeepMind paper: [Lillicrap, Timothy P., et al., 2015. Continuous Control with Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf). The project uses Actor-Critic method, Ornstein-Uhlenbeck Noise and Replay buffer. 
 
-	_Tools: scikit-learn, keras, numpy, pandas_
+	_Tools: keras, numpy, pandas_
 
 - ### Data Analysis and Visualisation
 
@@ -35,7 +35,6 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	_Tools: numpy, pandas, seaborn_
 
-	
 
 - ### Micro Projects: 
 
@@ -60,10 +59,9 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	_Tools: Hive, scikit-learn_
 
-- ### Big Data Micro Projects: 
-	
-		- __HIVE Data Definition Language (DDL)__
-			- [Comparison of Popularity of Stackoverflow Tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
+- ### Big Data Micro Projects
+	- __HIVE Data Definition Language (DDL)__
+		- [Comparison of Popularity of Stackoverflow Tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
 
 	_Tools: Hive_
 
