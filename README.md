@@ -9,7 +9,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- [Predicting Boston Housing Prices](https://github.com/lsirse/Data-Science-Portfolio/tree/master/boston_housing): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 	
-	- [Supervised Learning: Finding Donors for CharityML](https://github.com/lsirse/Data-Science-Portfolio/tree/master/finding_donors): Testing out several different supervised learning algorithms (SVM, Decision Trees, Random Forests) to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
+	- [Supervised Learning: Finding Donors for CharityML](https://github.com/lsirse/Data-Science-Portfolio/tree/master/finding_donors): Testing out several different supervised learning algorithms (SVM, Decision Trees, Random Forests) to build a model that accurately predicts whether an individual makes more than $50,000 in order to identify likely donors for a fictional non-profit organisation.
 
 	- [Unsupervised Learning: Creating Customer Segments](https://github.com/lsirse/Data-Science-Portfolio/tree/master/customer_segments): Analyzing a dataset (using PCA, Gaussian Mixture Model) containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 
@@ -18,7 +18,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 - ### Deep Learning
 
-	- [Deep Learning: Algorithm for a Dog Identification App](https://github.com/lsirse/Data-Science-Portfolio/tree/master/dog-project): Dog breed classifier app which uses Deep learning, specifically convolutional neural networks(CNNs) to classify dog breeds. To reduce training time without sacrificing accuracy, CNNs were trained with GPU using transfer learning.
+	- [Deep Learning: Algorithm for a Dog Identification App](https://github.com/lsirse/Data-Science-Portfolio/tree/master/dog-project): Dog breed classifier app which uses Deep learning, specifically convolutional neural networks (CNNs) to classify dog breeds. To reduce training time without sacrificing accuracy, CNNs were trained with GPU using transfer learning.
 
 	_Tools: keras, numpy, matplotlib_
 
