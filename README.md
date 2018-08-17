@@ -69,14 +69,14 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- __Spark__
 
-		- [Finding pairs of words in Wikipedia dump](#): To be documented properly by 20 of August, 2018
+		- [Finding Pairs of Words in Wikipedia Dump](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Big%20Data%20Micro%20Projects/spark_pairs.ipynb): To be documented properly by 20 of August, 2018
 
 		- [BFS in Spark](#): To be documented properly by 20 of August, 2018
 
 
 	- __MapReduce__
 
-		- [Calculating tfidf in MapReduce](#): To be documented properly by 20 of August, 2018
+		- [Calculating Tfidf in MapReduce](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Big%20Data%20Micro%20Projects/tfidf_mapreduce.ipynb): To be documented properly by 20 of August, 2018
 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me.
