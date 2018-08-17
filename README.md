@@ -67,7 +67,16 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 		- [Comparison of Popularity of Stackoverflow Tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
 
-	_Tools: Hive_
+	- __Spark__
+
+		- [Finding pairs of words in Wikipedia dump](#): To be documented properly by 20 of August, 2018
+
+		- [BFS in Spark](#): To be documented properly by 20 of August, 2018
+
+
+	- __MapReduce__
+
+		- [Calculating tfidf in MapReduce](#): To be documented properly by 20 of August, 2018
 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me.
