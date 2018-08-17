@@ -70,4 +70,4 @@ _Note: Data used in the projects is for demonstration purposes only._
 	_Tools: Hive_
 
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, you can contact me at linkedin. 
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me.
