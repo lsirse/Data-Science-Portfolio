@@ -65,13 +65,15 @@ _Note: Data used in the projects is for demonstration purposes only._
 - ### Big Data Micro Projects
 	- __HIVE Data Definition Language (DDL)__
 
-		- [Comparison of Popularity of Stackoverflow Tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
+		- [Comparison of Popularity of Stackoverflow Tags](https://github.com/lsirse/Data-Science-Portfolio/tree/master/Big%20Data%20Micro%20Projects/Stackoverflow_tag_popularity-Hive%20DDL): Comparison of popularity of Stackoverflow tags in 2009 and 2016 using Apache Hive™ Data Definition Language (DDL).
 
 	- __Spark__
 
 		- [Finding Pairs of Words in the Wikipedia Dump](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Big%20Data%20Micro%20Projects/Spark/spark_pairs.ipynb): Finding all the pairs of two consequent words where the first word is “narodnaya” and counting the number of occurrences in the Wikipedia dump.
 
 
+		- [BFS in Spark](#): To be documented properly by 20 of August, 2018
+		
 	- __MapReduce__
 
 		- [Calculating Tfidf in MapReduce](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Big%20Data%20Micro%20Projects/MapReduce/tfidf_mapreduce.ipynb): Calculating TF-IDF for a selected pair (word, article) from the Wikipedia dump.
