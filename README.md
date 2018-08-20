@@ -74,9 +74,4 @@ _Note: Data used in the projects is for demonstration purposes only._
 		- [BFS in Spark](#): To be documented properly by 20 of August, 2018
 
 
-	- __MapReduce__
-
-		- [Calculating Tfidf in MapReduce](#): To be documented properly by 20 of August, 2018
-
-
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me.
