@@ -76,7 +76,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- __MapReduce__
 
-		- [Calculating Tfidf in MapReduce](#): To be documented properly by 20 of August, 2018
+		- [Calculating Tfidf in MapReduce](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Big%20Data%20Micro%20Projects/MapReduce/tfidf_mapreduce.ipynb): To be documented properly by 20 of August, 2018
 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me.
