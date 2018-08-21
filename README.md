@@ -72,8 +72,6 @@ _Note: Data used in the projects is for demonstration purposes only._
 		- [Finding Pairs of Words in the Wikipedia Dump](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Big%20Data%20Micro%20Projects/Spark/spark_pairs.ipynb): Finding all the pairs of two consequent words where the first word is “narodnaya” and counting the number of occurrences in the Wikipedia dump.
 
 
-		- [BFS in Spark](#): To be documented properly by 20 of August, 2018
-		
 	- __MapReduce__
 
 		- [Calculating Tfidf in MapReduce](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Big%20Data%20Micro%20Projects/MapReduce/tfidf_mapreduce.ipynb): Calculating TF-IDF for a selected pair (word, article) from the Wikipedia dump.
