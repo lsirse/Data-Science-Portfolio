@@ -72,7 +72,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 		- [Finding Pairs of Words in the Wikipedia Dump](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Big%20Data%20Micro%20Projects/Spark/spark_pairs.ipynb): Finding all the pairs of two consequent words where the first word is “narodnaya” and counting the number of occurrences in the Wikipedia dump.
 
 
-		- [Simple Movie Recommendation System](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Big%20Data%20Micro%20Projects/Spark_ALS_RecSys/als_recommender_system.ipynb): Using Apache Spark's Alternating Least Squares model in order to build simple movie recommendation system on a sample of big MovieLens 20M dataset (https://grouplens.org/datasets/movielens/). The dataset contains 20 million ratings for 27000 movies given by 138000 users.
+		- [Simple Movie Recommendation System](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Big%20Data%20Micro%20Projects/Spark_ALS_RecSys/als_recommender_system.ipynb): Using Apache Spark's Alternating Least Squares model in order to build simple movie recommendation system on a sample of big MovieLens 20M dataset (https://grouplens.org/datasets/movielens/).
 
 
 	- __MapReduce__
