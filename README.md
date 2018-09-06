@@ -13,7 +13,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- [Unsupervised Learning: Creating Customer Segments](https://github.com/lsirse/Data-Science-Portfolio/tree/master/customer_segments): Analyzing a dataset (using PCA, Gaussian Mixture Model) containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 
-	- [Natural language processing: Toxic Comment Classification](https://github.com/lsirse/Data-Science-Portfolio/blob/master/toxic-comments/main.ipynb): Developing a model which provides a probability of each type of toxicity (toxic, severe_toxic, obscene, threat, insult, identity_hate) for Wikipedia comments.
+	- [Natural Language Processing: Toxic Comment Classification](https://github.com/lsirse/Data-Science-Portfolio/blob/master/toxic-comments/main.ipynb): Developing a model which provides a probability of each type of toxicity (toxic, severe_toxic, obscene, threat, insult, identity_hate) for Wikipedia comments.
 
 	_Tools: scikit-learn, numpy, pandas, matplotlib, seaborn_
 
