@@ -28,6 +28,8 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- [Deep Learning with PyTorch: Training Flower Classifier](https://github.com/lsirse/Data-Science-Portfolio/blob/master/PyTorch/Image%20Classifier%20Project.ipynb): Training an image classifier to recognize different species of flowers.
 
+	- [Deep Learning with PyTorch: Sentiment Analysis with an RNN](#): implementing a recurrent neural network (RNN) that performs sentiment analysis.
+
 
 	_Tools: PyTorch, keras, numpy, matplotlib_
 
