@@ -22,7 +22,14 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- [Deep Learning: Algorithm for a Dog Identification App](https://github.com/lsirse/Data-Science-Portfolio/tree/master/dog-project): Dog breed classifier app which uses Deep learning, specifically convolutional neural networks (CNNs) to classify dog breeds. To reduce training time without sacrificing accuracy, CNNs were trained with GPU using transfer learning.
 
-	_Tools: keras, numpy, matplotlib_
+	- [Deep Learning with PyTorch: Training Neural Networks](#): Training a neural network with PyTorch
+
+	- [Deep Learning with PyTorch: Image Style Transfer](#): Image Style Transfer Using Convolutional Neural Networks
+
+	- [Deep Learning with PyTorch: Training Flower Classifier](#): Training an image classifier to recognize different species of flowers.
+
+
+	_Tools: PyTorch, keras, numpy, matplotlib_
 
 - ### Reinforcement learning
 
