@@ -15,7 +15,7 @@ The next step in this evolution is to enable quadcopters to autonomously achieve
 
 ## Known Issues
 
-- The quadcopter's flying behaviour is still very erratic. You are always welcome to contribute by forking this project and changing the reward function or the structure of Agent or Critic neural networks.
+- The quadcopter's flying behaviour is to some extent erratic. You are always welcome to contribute by forking this project and changing the reward function or the structure of Agent or Critic neural networks.
 
 
 ## Project Instructions
