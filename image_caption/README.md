@@ -1,5 +1,4 @@
 # Automatic Generation of Image Descriptions
----
 
 ## Overview
 Automatically describing the content of an image is a fundamental problem in artificial intelligence that connects computer vision and natural language processing. In this project, a generative model based on a CNN + RNN is developed that combines advances in computer vision and machine translation and that can be used to generate natural sentences describing an image. The model is trained to maximize the likelihood of the target description sentence given the training image. Initial experiments show that even after relatively little amount of training, the model is able to produce pretty reasonable results. 
