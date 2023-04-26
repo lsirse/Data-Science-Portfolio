@@ -30,6 +30,8 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 	- [Deep Learning with PyTorch: Sentiment Analysis with an RNN](https://github.com/lsirse/Data-Science-Portfolio/blob/master/PyTorch/Sentiment_RNN.ipynb): implementing a recurrent neural network (RNN) that performs sentiment analysis.
 
+	- [Deep Learning with PyTorch: Image Caption Generation](https://github.com/lsirse/Data-Science-Portfolio/tree/master/image_caption): implementing a neural network (consisting of CNN and RNN) that is able to generate a description of any given image.
+
 
 	_Tools: PyTorch, keras, numpy, matplotlib_
 
