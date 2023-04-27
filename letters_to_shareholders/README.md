@@ -19,10 +19,10 @@ This micro project aims to infuse GPT models with the legendary wisdom coming fr
 
 This micro project is just a demonstration of the capabilities of Langchain library & Large Language models and is far from being production-ready. Possible areas of improvement are:
 
-- UI: Develop better, more intuitive user interface
+- UI: Develop better, more intuitive user interface.
 - Methodology optimization: Refine the approach through testing.
 - Multi-turn conversation: Enable dynamic, coherent dialogues.
-- Complete Buffett letters: Include all letters dating from 1965
+- Complete Buffett letters: Include all letters dating from 1965.
 
 
 ## Requirements
