@@ -13,7 +13,7 @@
 
 This micro project aims to infuse GPT models with the legendary wisdom coming from the Warren Buffett's letters to shareholders.
 
-![Buffett's picture](data/buffet_smaller.png)
+![Buffett's picture](https://github.com/lsirse/Data-Science-Portfolio/blob/master/letters_to_shareholders/data/buffett_smaller.png)
 
 ## ToDo
 

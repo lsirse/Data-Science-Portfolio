@@ -51,6 +51,10 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 - ### Micro Projects: 
 
+	- __Infusing ChatGPT with the legendary wisdom of Warren Buffett__
+
+		- [Making Warren Buffett's Letters to Shareholders Interactive](https://github.com/lsirse/Data-Science-Portfolio/tree/master/letters_to_shareholders/) Utilizing LangChain and Large Language Models to enable anyone to ask questions and gain quick, direct insights from the renowned Warren Buffett's letters to shareholders.
+
 	- __Decision Trees__
 	
 		- [Titanic Survival Exploration with Decision Trees](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/titanic_decisiontrees.ipynb): Training and testing Decision Trees model in order to predict survival of the passengers onboard RMS Titanic.
@@ -74,6 +78,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 	- __Independent Component Analysis (ICA)__
 
 		- [Retrieving original signal with ICA](https://github.com/lsirse/Data-Science-Portfolio/blob/master/Micro%20Projects/ICA/Independent%20Component%20Analysis.ipynb): Using Independent Component Analysis to retrieve original signals from three observations each of which contains a different mix of the original signals.
+	
 
 - ### Big Data Micro Projects
 	- __HIVE Data Definition Language (DDL)__
