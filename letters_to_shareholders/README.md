@@ -73,7 +73,7 @@ You can download the Anaconda distribution, which includes both Python and the c
    python app.py
    ```
 
-   This will start the letters_to_shareholders app, and you should see the app's output.
+   This will start the `letters_to_shareholders` app, and you should see the app's output.
    
 
 ## Sample output
